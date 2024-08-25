@@ -1,1 +1,3 @@
 certs/
+var/
+*.pdf
